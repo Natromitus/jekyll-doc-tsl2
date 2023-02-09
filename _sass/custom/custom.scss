@@ -1,0 +1,53 @@
+h4, .text-gamma {
+    text-transform: none;
+    font-size: 17.5px !important;
+    font-family: inherit !important;
+    letter-spacing: inherit !important;
+    font-weight: 500;
+    color: $white;
+}
+
+h5, .text-epsilon {
+    text-transform: none;
+    font-size: 17px !important;
+    font-family: inherit !important;
+    letter-spacing: inherit !important;
+    font-weight: 500;
+    color: $white;
+}
+
+h6, .text-zeta {
+    text-transform: none;
+    font-size: 17px !important;
+    font-family: inherit !important;
+    letter-spacing: inherit !important;
+    font-weight: 500;
+    color: $white;
+}
+
+.search-input {
+    color: white;
+}
+
+.site-nav::-webkit-scrollbar {
+    height: 0.5em;
+    width: 0.5em;
+}
+
+.site-nav::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+
+.site-nav::-webkit-scrollbar-corner {
+    background-color: #27262b;
+}
+
+.site-nav::-webkit-scrollbar:hover {
+    height: 0.7em;
+    width: 0.7em;
+}
+
+.site-footer {
+    display: none;
+}
